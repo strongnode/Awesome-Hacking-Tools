@@ -25,6 +25,7 @@ ________________________________________________________________________________
 * __airoscript	45.0a122ee__	A script to simplify the use of aircrack-ng tools.	http://midnightresearch.com/projects/wicrawl/
 * __airpwn	1.4__	A tool for generic packet injection on an 802.11 network.	http://airpwn.sourceforge.net
 * __allthevhosts 1.0__	A vhost discovery tool that scrapes various web applications	http://labs.portcullis.co.uk/tools/finding-all-the-vhosts/
+* __amass 1.3.2__ In-depth subdomain enumeration written in Go https://github.com/caffix/amass
 * __american-fuzzy-lop	0.89b__	A practical, instrumentation-driven fuzzer for binary formats.	https://code.google.com/p/american-fuzzy-lop/
 * __androguard	1.9__	Reverse engineering, Malware and goodware analysis of Android applications and more.	https://code.google.com/p/androguard/
 * __androick	5.35048d7__	A python tool to help in forensics analysis on android.	https://github.com/Flo354/Androick
@@ -88,7 +89,7 @@ ________________________________________________________________________________
 * __bluebox-ng	66.4a73bb4__	A GPL VoIP/UC vulnerability scanner.	https://github.com/jesusprubio/bluebox-ng
 * __bluebugger	0.1__	An implementation of the bluebug technique which was discovered by Martin Herfurt.	http://packetstormsecurity.com/files/54024/bluebugger.1.tar.gz.html
 * __bluelog	1.1.1__	A Bluetooth scanner and sniffer written to do a single task, log devices that are in discoverable mode.	http://www.digifail.com/software/bluelog.shtml
-* __bluepot	0.1__	A Bluetooth Honeypot written in Java, it runs on Linux	https://code.google.com/p/bluepot/
+* __bluepot	0.1__	A Bluetooth Honeypot written in Java, it runs on Linux https://github.com/andrewmichaelsmith/bluepot/
 * __blueprint	0.1_3__	A perl tool to identify Bluetooth devices.	http://trifinite.org/trifinite_stuff_blueprinting.html
 * __blueranger	1.0__	A simple Bash script which uses Link Quality to locate Bluetooth device radios.	http://www.hackfromacave.com/projects/blueranger.html
 * __bluesnarfer	0.1__	A bluetooth attacking tool	http://www.alighieri.org/project.html
@@ -775,117 +776,117 @@ reaver	1.4	Implements a brute force attack against wifi protected setup WPS regi
 * __ruby-ronin	1.5.0__	A Ruby platform for exploit development and security research.	http://ronin-ruby.github.io/
 * __ruby-ronin-support	0.5.1__	A support library for Ronin.	http://ronin-ruby.github.io/
 * __ruby-uri-query_params	0.7.0__	Access the query parameters of a URI, just like in PHP.	http://github.com/postmodern/uri-query_params
-rww-attack	0.9.2	The Remote Web Workplace Attack tool will perform a dictionary attack against a live Microsoft Windows Small Business Server's 'Remote Web Workplace' portal. It currently supports both SBS 2003 and SBS 2008 and includes features to avoid account lock out.	http://packetstormsecurity.com/files/79021/Remote-Web-Workplace-Attack-Tool.html
-safecopy	1.7	A disk data recovery tool to extract data from damaged media	http://safecopy.sourceforge.net/
-sakis3g	0.2.0e	An all-in-one script for connecting with 3G	http://www.sakis3g.org/
-sambascan	0.5.0	Allows you to search an entire network or a number of hosts for SMB shares. It will also list the contents of all public shares that it finds.	http://sourceforge.net/projects/sambascan2/
-samdump2	3.0.0	Dump password hashes from a Windows NT/2k/XP installation	http://sourceforge.net/projects/ophcrack/files/samdump2/
-samydeluxe	2.2ed1bac	Automatic samdump creation script.	http://github.com/jensp/samydeluxe
-sandy	6.531ab16	An open-source Samsung phone encryption assessment framework	https://github.com/donctl/sandy
-sasm	3.1.0	A simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages.	https://github.com/Dman95/SASM
-sb0x	19.04f40fe	A simple and Lightweight framework for Penetration testing.	https://github.com/levi0x0/sb0x-project
-sbd	1.36	Netcat-clone, portable, offers strong encryption - features AES-CBC + HMAC-SHA1 encryption, program execution (-e), choosing source port, continuous reconnection with delay + more	http://www2.packetstormsecurity.org/cgi-bin/search/search.cgi?searchvalue=sbd
-scalpel	2.0	A frugal, high performance file carver	http://www.digitalforensicssolutions.com/Scalpel/
-scanmem	0.13	A utility used to locate the address of a variable in an executing process.	http://code.google.com/p/scanmem/
-scanssh	2.1	Fast SSH server and open proxy scanner.	http://www.monkey.org/~provos/scanssh/
-scapy	2.2.0	A powerful interactive packet manipulation program written in Python	http://www.secdev.org/projects/scapy/
-schnappi-dhcp	0.1	schnappi can fuck network with no DHCP	http://www.emanuelegentili.eu/
-scout2	196.7cc58b4	Security auditing tool for AWS environments.	http://isecpartners.github.io/Scout2/
-scrapy	4419.c485a05	A fast high-level scraping and web crawling framework.	http://www.scrapy.org/
-scrounge-ntfs	0.9	Data recovery program for NTFS file systems	http://memberwebs.com/stef/software/scrounge/
-sctpscan	1.0	A network scanner for discovery and security	http://www.p1sec.com/
-seat	0.3	Next generation information digging application geared toward the needs of security professionals. It uses information stored in search engine databases, cache repositories, and other public resources to scan web sites for potential vulnerabilities.	http://thesprawl.org/projects/search-engine-assessment-tool/
-secscan	1.5	Web Apps Scanner and Much more utilities.	http://code.google.com/p/secscan-py/
-secure-delete	3.1	Secure file, disk, swap, memory erasure utilities.	http://www.thc.org/
-sees	67.cd741aa	Increase the success rate of phishing attacks by sending emails to company users as if they are coming from the very same company's domain.	https://github.com/galkan/sees/
-sergio-proxy	0.2.1	A multi-threaded transparent HTTP proxy for manipulating web traffic	https://github.com/darkoperator/dnsrecon
-sessionlist	1.0	Sniffer that intents to sniff HTTP packets and attempts to reconstruct interesting authentication data from websites that do not employ proper secure cookie auth.	http://www.0xrage.com/
-set	6.1.2	Social-engineer toolkit. Aimed at penetration testing around Social-Engineering	https://www.trustedsec.com/downloads/social-engineer-toolkit
-sfuzz	0.7.0	A simple fuzzer.	http://aconole.brad-x.com/programs/sfuzz.html
-shellcodecs	0.1	A collection of shellcode, loaders, sources, and generators provided with documentation designed to ease the exploitation and shellcode programming process.	http://www.blackhatlibrary.net/Shellcodecs
-shellme	3.8c7919d	Because sometimes you just need shellcode and opcodes quickly. This essentially just wraps some nasm/objdump calls into a neat script.	https://github.com/hatRiot/shellme
-shellnoob	2.1	A toolkit that eases the writing and debugging of shellcode	https://github.com/reyammer/shellnoob
-shortfuzzy	0.1	A web fuzzing script written in perl.	http://packetstormsecurity.com/files/104872/Short-Fuzzy-Rat-Scanner.html
-sidguesser	1.0.5	Guesses sids/instances against an Oracle database according to a predefined dictionary file.	http://www.cqure.net/wp/tools/database/sidguesser/
-siege	3.0.8	An http regression testing and benchmarking utility	http://www.joedog.org/JoeDog/Siege
-silk	3.9.0	A collection of traffic analysis tools developed by the CERT NetSA to facilitate security analysis of large networks.	https://tools.netsa.cert.org/silk/
-simple-ducky	1.1.1	A payload generator.	https://code.google.com/p/simple-ducky-payload-generator
-simple-lan-scan	1.0	A simple python script that leverages scapy for discovering live hosts on a network.	http://packetstormsecurity.com/files/97353/Simple-LAN-Scanner.0.html
-sinfp	1.22	A full operating system stack fingerprinting suite.	http://www.networecon.com/tools/sinfp/
-siparmyknife	11232011	A small command line tool for developers and administrators of Session Initiation Protocol (SIP) applications.	http://packetstormsecurity.com/files/107301/sipArmyKnife_11232011.pl.txt
-sipcrack	0.2	A SIP protocol login cracker.	http://www.remote-exploit.org/codes_sipcrack.html
-sipp	3.3	A free Open Source test tool / traffic generator for the SIP protocol.	http://sipp.sourceforge.net/
-sipsak	0.9.6	A small command line tool for developers and administrators of Session Initiation Protocol (SIP) applications.	http://sipsak.org
-sipscan	0.1	A sip scanner.	http://www.hackingvoip.com/sec_tools.html
-sipshock	6.1d636ab	A scanner for SIP proxies vulnerable to Shellshock.	https://github.com/zaf/sipshock
-sipvicious	0.2.8	Tools for auditing SIP devices	http://blog.sipvicious.org
-skipfish	2.10b	A fully automated, active web application security reconnaissance tool	http://code.google.com/p/skipfish/
-skyjack	7.5f7a25e	Takes over Parrot drones, deauthenticating their true owner and taking over control, turning them into zombie drones under your own control.	https://github.com/samyk/skyjack
-skype-dump	0.1	This is a tool that demonstrates dumping MD5 password hashes from the configuration file in Skype.	http://packetstormsecurity.com/files/119155/Skype-Hash-Dumper.0.html
-skypefreak	30.14a81cb	A Cross Platform Forensic Framework for Skype.	http://osandamalith.github.io/SkypeFreak/
-sleuthkit	4.1.3	File system and media management forensic analysis tools	http://www.sleuthkit.org/sleuthkit
-slowhttptest	1.5	A highly configurable tool that simulates application layer denial of service attacks	http://code.google.com/p/slowhttptest
-slowloris	0.7	A tool which is written in perl to test http-server vulnerabilites for connection exhaustion denial of service (DoS) attacks so you can enhance the security of your webserver.	http://ha.ckers.org/slowloris/
-smali	1.4.1	An assembler/disassembler for Android's dex format	http://code.google.com/p/smali/
-smartphone-pentest-framework	95.20918b2	Repository for the Smartphone Pentest Framework (SPF).	https://github.com/georgiaw/Smartphone-Pentest-Framework
-smbbf	0.9.1	SMB password bruteforcer.	http://packetstormsecurity.com/files/25381/smbbf.9.1.tar.gz.html
-smbexec	148.7827616	A rapid psexec style attack with samba tools.	https://github.com/pentestgeek/smbexec
-smbrelay	3	SMB / HTTP to SMB replay attack toolkit.	http://www.tarasco.org/security/smbrelay/
-smtp-fuzz	1.0	Simple smtp fuzzer	none
-smtp-user-enum	1.2	Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.	http://pentestmonkey.net/tools/user-enumeration/smtp-user-enum
-smtp-vrfy	1.0	An SMTP Protocol Hacker.
-smtpmap	0.8.234_BETA	Tool to identify the running smtp software on a given host.	http://www.projectiwear.org/~plasmahh/software.html
-smtpscan	0.5	An SMTP scanner	http://packetstormsecurity.com/files/31102/smtpscan.5.tar.gz.html
-sn00p	0.8	A modular tool written in bourne shell and designed to chain and automate security tools and tests.	http://www.nullsecurity.net/tools/automation.html
-sniffjoke	0.4.1	Injects packets in the transmission flow that are able to seriously disturb passive analysis like sniffing, interception and low level information theft.	http://www.delirandom.net/sniffjoke/
-snmp-fuzzer	0.1.1	SNMP fuzzer uses Protos test cases with an entirely new engine written in Perl.	http://www.arhont.com/en/category/resources/tools-utilities/
-snmpattack	1.8	SNMP scanner and attacking tool.	http://www.c0decafe.de/
-snmpcheck	1.8	A free open source utility to get information via SNMP protocols.	http://www.nothink.org/perl/snmpcheck/
-snmpenum	1.7	snmp enumerator	http://www.filip.waeytens.easynet.be/
-snmpscan	0.1	A free, multi-processes SNMP scanner	http://www.nothink.org/perl/snmpscan/index.php
-snoopy-ng	93.e305420	A distributed, sensor, data collection, interception, analysis, and visualization framework.	https://github.com/sensepost/snoopy-ng
-snort	2.9.6.1	A lightweight network intrusion detection system.	http://www.snort.org
-snow	20130616	Steganography program for concealing messages in text files.	http://darkside.com.au/snow/index.html
-snscan	1.05	A Windows based SNMP detection utility that can quickly and accurately identify SNMP enabled devices on a network.	http://www.mcafee.com/uk/downloads/free-tools/snscan.aspx
-socat	1.7.2.4	Multipurpose relay	http://www.dest-unreach.org/socat/
-soot	2.5.0	A Java Bytecode Analysis and Transformation Framework.	http://www.sable.mcgill.ca/soot
-spade	114	A general-purpose Internet utility package, with some extra features to help in tracing the source of spam and other forms of Internet harassment.	http://www.hoobie.net/brutus/
-sparty	0.1	An open source tool written in python to audit web applications using sharepoint and frontpage architecture.	http://sparty.secniche.org/
-spectools	2010_04_R1	Spectrum-Tools is a set of utilities for using the Wi-Spy USB spectrum analyzer hardware. Stable version.	http://www.kismetwireless.net/spectools/
-speedpwn	8.3dd2793	An active WPA/2 Bruteforcer, original created to prove weak standard key generation in different ISP labeled routers without a client is connected.	https://gitorious.org/speedpwn/
-spiderfoot	2.1.5	The Open Source Footprinting Tool	http://spiderfoot.net/
-spiderpig-pdffuzzer	0.1	A javascript pdf fuzzer	https://code.google.com/p/spiderpig-pdffuzzer/
-spiga	7240.3a804ac	Configurable web resource scanner	https://github.com/getdual/scripts-n-tools/blob/master/spiga.py
-spike	2.9	IMMUNITYsec's fuzzer creation kit in C	http://www.immunitysec.com/resources-freesoftware.shtml
-spike-proxy	148	A Proxy for detecting vulnerabilities in web applications	http://www.immunitysec.com/resources-freesoftware.shtml
-spiped	1.4.1	A utility for creating symmetrically encrypted and authenticated pipes between socket addresses.	https://www.tarsnap.com/spiped.html
-spipscan	8340.db8ef4a	SPIP (CMS) scanner for penetration testing purpose written in Python.	https://github.com/PaulSec/SPIPScan
-splint	3.1.2	A tool for statically checking C programs for security vulnerabilities and coding mistakes	http://www.splint.org/
-sploitctl	1.1	Fetch, install and search exploit archives from exploit sites like exploit-db and packetstorm.	https://github.com/BlackArch/sploitctl
-sploitego	153.d9568dc	Maltego Penetration Testing Transforms.	https://github.com/allfro/sploitego
-spooftooph	0.5.2	Designed to automate spoofing or cloning Bluetooth device Name, Class, and Address. Cloning this information effectively allows Bluetooth device to hide in plain sight	http://www.hackfromacave.com/projects/spooftooph.html
-sps	4.2	A Linux packet crafting tool. Supports IPv4, IPv6 including extension headers, and tunneling IPv6 over IPv4.	https://sites.google.com/site/simplepacketsender/
-sqid	0.3	A SQL injection digger.	http://sqid.rubyforge.org/
-sqlbrute	1.0	Brute forces data out of databases using blind SQL injection.	http://www.justinclarke.com/archives/2006/03/sqlbrute.html
-sqlmap	6445.20c272b	An automatic SQL injection tool developed in Python.	http://sqlmap.sourceforge.net
-sqlninja	0.2.6_r1	A tool targeted to exploit SQL Injection vulnerabilities on a web application that uses Microsoft SQL Server as its back-end	http://sqlninja.sourceforge.net/
-sqlpat	1.0.1	This tool should be used to audit the strength of Microsoft SQL Server passwords offline.	http://www.cqure.net/wp/sqlpat/
-sqlping	4	SQL Server scanning tool that also checks for weak passwords using wordlists.	http://www.sqlsecurity.com/downloads
-sqlsus	0.7.2	An open source MySQL injection and takeover tool, written in perl	http://sqlsus.sourceforge.net/
-ssh-privkey-crack	0.3	A SSH private key cracker	https://code.google.com/p/lusas/
-sshatter	1.2	Password bruteforcer for SSH	http://www.nth-dimension.org.uk/downloads.php?id=34
-sshscan	7401.3bfd4ae	A horizontal SSH scanner that scans large swaths of IPv4 space for a single SSH user and pass.	https://github.com/getdual/scripts-n-tools/blob/master/sshscan.py
-sshtrix	0.0.2	A very fast multithreaded SSH login cracker	http://nullsecurity.net/tools/cracker.html
-sshuttle	198.9ce2fa0	Transparent proxy server that works as a poor man's VPN. Forwards all TCP packets over ssh (and even DNS requests when using --dns option). Doesn't require admin privileges on the server side.	https://github.com/apenwarr/sshuttle
-ssl-hostname-resolver	1	CN (Common Name) grabber on X.509 Certificates over HTTPS.	http://packetstormsecurity.com/files/120634/Common-Name-Grabber-Script.html
-ssl-phuck3r	2.0	All in one script for Man-In-The-Middle attacks.	https://github.com/zombiesam/ssl_phuck3r
-sslcat	1.0	SSLCat is a simple Unix utility that reads and writes data across an SSL enable network connection.	http://www.bindshell.net/tools/sslcat
-sslcaudit	522.5b6be3e	Utility to perform security audits of SSL/TLS clients.	https://github.com/grwl/sslcaudit
-ssldump	0.9b3	an SSLv3/TLS network protocol analyzer	http://www.rtfm.com/ssldump/
-sslh	1.16	SSL/SSH/OpenVPN/XMPP/tinc port multiplexer	http://www.rutschle.net/tech/sslh.shtml
-sslmap	0.2.0	A lightweight TLS/SSL cipher suite scanner.	http://thesprawl.org/projects/latest/
-sslnuke	5.c5faeaa	Transparent proxy that decrypts SSL traffic and prints out IRC messages.	https://github.com/jtripper/sslnuke
-sslscan	239.1328b49	Tests SSL/TLS enabled services to discover supported cipher suites.	https://github.com/DinoTools/sslscan
+* __rww-attack	0.9.2__	The Remote Web Workplace Attack tool will perform a dictionary attack against a live Microsoft Windows Small Business Server's 'Remote Web Workplace' portal. It currently supports both SBS 2003 and SBS 2008 and includes features to avoid account lock out.	http://packetstormsecurity.com/files/79021/Remote-Web-Workplace-Attack-Tool.html
+* __safecopy	1.7__	A disk data recovery tool to extract data from damaged media	http://safecopy.sourceforge.net/
+* __sakis3g	0.2.0e__	An all-in-one script for connecting with 3G	http://www.sakis3g.org/
+* __sambascan	0.5.0__	Allows you to search an entire network or a number of hosts for SMB shares. It will also list the contents of all public shares that it finds.	http://sourceforge.net/projects/sambascan2/
+* __samdump2	3.0.0__	Dump password hashes from a Windows NT/2k/XP installation	http://sourceforge.net/projects/ophcrack/files/samdump2/
+* __samydeluxe	2.2ed1bac__	Automatic samdump creation script.	http://github.com/jensp/samydeluxe
+* __sandy	6.531ab16__	An open-source Samsung phone encryption assessment framework	https://github.com/donctl/sandy
+* __sasm	3.1.0__	A simple crossplatform IDE for NASM, MASM, GAS and FASM assembly languages.	https://github.com/Dman95/SASM
+* __sb0x	19.04f40fe__	A simple and Lightweight framework for Penetration testing.	https://github.com/levi0x0/sb0x-project
+* __sbd	1.36__	Netcat-clone, portable, offers strong encryption - features AES-CBC + HMAC-SHA1 encryption, program execution (-e), choosing source port, continuous reconnection with delay + more	http://www2.packetstormsecurity.org/cgi-bin/search/search.cgi?searchvalue=sbd
+* __scalpel	2.0__	A frugal, high performance file carver	http://www.digitalforensicssolutions.com/Scalpel/
+* __scanmem	0.13__	A utility used to locate the address of a variable in an executing process.	http://code.google.com/p/scanmem/
+* __scanssh	2.1__	Fast SSH server and open proxy scanner.	http://www.monkey.org/~provos/scanssh/
+* __scapy	2.2.0__	A powerful interactive packet manipulation program written in Python	http://www.secdev.org/projects/scapy/
+* __schnappi-dhcp	0.1__	schnappi can fuck network with no DHCP	http://www.emanuelegentili.eu/
+* __scout2	196.7cc58b4__	Security auditing tool for AWS environments.	http://isecpartners.github.io/Scout2/
+* __scrapy	4419.c485a05__	A fast high-level scraping and web crawling framework.	http://www.scrapy.org/
+* __scrounge-ntfs	0.9__	Data recovery program for NTFS file systems	http://memberwebs.com/stef/software/scrounge/
+* __sctpscan	1.0__	A network scanner for discovery and security	http://www.p1sec.com/
+* __seat	0.3__	Next generation information digging application geared toward the needs of security professionals. It uses information stored in search engine databases, cache repositories, and other public resources to scan web sites for potential vulnerabilities.	http://thesprawl.org/projects/search-engine-assessment-tool/
+* __secscan	1.5__	Web Apps Scanner and Much more utilities.	http://code.google.com/p/secscan-py/
+* __secure-delete	3.1__	Secure file, disk, swap, memory erasure utilities.	http://www.thc.org/
+* __sees	67.cd741aa__	Increase the success rate of phishing attacks by sending emails to company users as if they are coming from the very same company's domain.	https://github.com/galkan/sees/
+* __sergio-proxy	0.2.1__	A multi-threaded transparent HTTP proxy for manipulating web traffic	https://github.com/darkoperator/dnsrecon
+* __sessionlist	1.0__	Sniffer that intents to sniff HTTP packets and attempts to reconstruct interesting authentication data from websites that do not employ proper secure cookie auth.	http://www.0xrage.com/
+* __set	6.1.2__	Social-engineer toolkit. Aimed at penetration testing around Social-Engineering	https://www.trustedsec.com/downloads/social-engineer-toolkit
+* __sfuzz	0.7.0__	A simple fuzzer.	http://aconole.brad-x.com/programs/sfuzz.html
+* __shellcodecs	0.1__	A collection of shellcode, loaders, sources, and generators provided with documentation designed to ease the exploitation and shellcode programming process.	http://www.blackhatlibrary.net/Shellcodecs
+* __shellme	3.8c7919d__	Because sometimes you just need shellcode and opcodes quickly. This essentially just wraps some nasm/objdump calls into a neat script.	https://github.com/hatRiot/shellme
+* __shellnoob	2.1__	A toolkit that eases the writing and debugging of shellcode	https://github.com/reyammer/shellnoob
+* __shortfuzzy	0.1__	A web fuzzing script written in perl.	http://packetstormsecurity.com/files/104872/Short-Fuzzy-Rat-Scanner.html
+* __sidguesser	1.0.5__	Guesses sids/instances against an Oracle database according to a predefined dictionary file.	http://www.cqure.net/wp/tools/database/sidguesser/
+* __siege	3.0.8__	An http regression testing and benchmarking utility	http://www.joedog.org/JoeDog/Siege
+* __silk	3.9.0__	A collection of traffic analysis tools developed by the CERT NetSA to facilitate security analysis of large networks.	https://tools.netsa.cert.org/silk/
+* __simple-ducky	1.1.1__	A payload generator.	https://code.google.com/p/simple-ducky-payload-generator
+* __simple-lan-scan	1.0__	A simple python script that leverages scapy for discovering live hosts on a network.	http://packetstormsecurity.com/files/97353/Simple-LAN-Scanner.0.html
+* __sinfp	1.22__	A full operating system stack fingerprinting suite.	http://www.networecon.com/tools/sinfp/
+* __siparmyknife	11232011__	A small command line tool for developers and administrators of Session Initiation Protocol (SIP) applications.	http://packetstormsecurity.com/files/107301/sipArmyKnife_11232011.pl.txt
+* __sipcrack	0.2__	A SIP protocol login cracker.	http://www.remote-exploit.org/codes_sipcrack.html
+* __sipp	3.3__	A free Open Source test tool / traffic generator for the SIP protocol.	http://sipp.sourceforge.net/
+* __sipsak	0.9.6__	A small command line tool for developers and administrators of Session Initiation Protocol (SIP) applications.	http://sipsak.org
+* __sipscan	0.1__	A sip scanner.	http://www.hackingvoip.com/sec_tools.html
+* __sipshock	6.1d636ab__	A scanner for SIP proxies vulnerable to Shellshock.	https://github.com/zaf/sipshock
+* __sipvicious	0.2.8__	Tools for auditing SIP devices	http://blog.sipvicious.org
+* __skipfish	2.10b__	A fully automated, active web application security reconnaissance tool	http://code.google.com/p/skipfish/
+* __skyjack	7.5f7a25e__	Takes over Parrot drones, deauthenticating their true owner and taking over control, turning them into zombie drones under your own control.	https://github.com/samyk/skyjack
+* __skype-dump	0.1__	This is a tool that demonstrates dumping MD5 password hashes from the configuration file in Skype.	http://packetstormsecurity.com/files/119155/Skype-Hash-Dumper.0.html
+* __skypefreak	30.14a81cb__	A Cross Platform Forensic Framework for Skype.	http://osandamalith.github.io/SkypeFreak/
+* __sleuthkit	4.1.3__	File system and media management forensic analysis tools	http://www.sleuthkit.org/sleuthkit
+* __slowhttptest	1.5__	A highly configurable tool that simulates application layer denial of service attacks	http://code.google.com/p/slowhttptest
+* __slowloris	0.7__	A tool which is written in perl to test http-server vulnerabilites for connection exhaustion denial of service (DoS) attacks so you can enhance the security of your webserver.	http://ha.ckers.org/slowloris/
+* __smali	1.4.1__	An assembler/disassembler for Android's dex format	http://code.google.com/p/smali/
+* __smartphone-pentest-framework	95.20918b2__	Repository for the Smartphone Pentest Framework (SPF).	https://github.com/georgiaw/Smartphone-Pentest-Framework
+* __smbbf	0.9.1__	SMB password bruteforcer.	http://packetstormsecurity.com/files/25381/smbbf.9.1.tar.gz.html
+* __smbexec	148.7827616__	A rapid psexec style attack with samba tools.	https://github.com/pentestgeek/smbexec
+* __smbrelay	3__	SMB / HTTP to SMB replay attack toolkit.	http://www.tarasco.org/security/smbrelay/
+* __smtp-fuzz	1.0__	Simple smtp fuzzer	none
+* __smtp-user-enum	1.2__	Username guessing tool primarily for use against the default Solaris SMTP service. Can use either EXPN, VRFY or RCPT TO.	http://pentestmonkey.net/tools/user-enumeration/smtp-user-enum
+* __smtp-vrfy	1.0__	An SMTP Protocol Hacker.
+* __smtpmap	0.8.234_BETA__	Tool to identify the running smtp software on a given host.	http://www.projectiwear.org/~plasmahh/software.html
+* __smtpscan	0.5__	An SMTP scanner	http://packetstormsecurity.com/files/31102/smtpscan.5.tar.gz.html
+* __sn00p	0.8__	A modular tool written in bourne shell and designed to chain and automate security tools and tests.	http://www.nullsecurity.net/tools/automation.html
+* __sniffjoke	0.4.1__	Injects packets in the transmission flow that are able to seriously disturb passive analysis like sniffing, interception and low level information theft.	http://www.delirandom.net/sniffjoke/
+* __snmp-fuzzer	0.1.1__	SNMP fuzzer uses Protos test cases with an entirely new engine written in Perl.	http://www.arhont.com/en/category/resources/tools-utilities/
+* __snmpattack	1.8__	SNMP scanner and attacking tool.	http://www.c0decafe.de/
+* __snmpcheck	1.8__	A free open source utility to get information via SNMP protocols.	http://www.nothink.org/perl/snmpcheck/
+* __snmpenum	1.7__	snmp enumerator	http://www.filip.waeytens.easynet.be/
+* __snmpscan	0.1__	A free, multi-processes SNMP scanner	http://www.nothink.org/perl/snmpscan/index.php
+* __snoopy-ng	93.e305420__	A distributed, sensor, data collection, interception, analysis, and visualization framework.	https://github.com/sensepost/snoopy-ng
+* __snort	2.9.6.1__	A lightweight network intrusion detection system.	http://www.snort.org
+* __snow	20130616__	Steganography program for concealing messages in text files.	http://darkside.com.au/snow/index.html
+* __snscan	1.05__	A Windows based SNMP detection utility that can quickly and accurately identify SNMP enabled devices on a network.	http://www.mcafee.com/uk/downloads/free-tools/snscan.aspx
+* __socat	1.7.2.4__	Multipurpose relay	http://www.dest-unreach.org/socat/
+* __soot	2.5.0__	A Java Bytecode Analysis and Transformation Framework.	http://www.sable.mcgill.ca/soot
+* __spade	114__	A general-purpose Internet utility package, with some extra features to help in tracing the source of spam and other forms of Internet harassment.	http://www.hoobie.net/brutus/
+* __sparty	0.1__	An open source tool written in python to audit web applications using sharepoint and frontpage architecture.	http://sparty.secniche.org/
+* __spectools	2010_04_R1__	Spectrum-Tools is a set of utilities for using the Wi-Spy USB spectrum analyzer hardware. Stable version.	http://www.kismetwireless.net/spectools/
+* __speedpwn	8.3dd2793__	An active WPA/2 Bruteforcer, original created to prove weak standard key generation in different ISP labeled routers without a client is connected.	https://gitorious.org/speedpwn/
+* __spiderfoot	2.1.5__	The Open Source Footprinting Tool	http://spiderfoot.net/
+* __spiderpig-pdffuzzer	0.1__	A javascript pdf fuzzer	https://code.google.com/p/spiderpig-pdffuzzer/
+* __spiga	7240.3a804ac__	Configurable web resource scanner	https://github.com/getdual/scripts-n-tools/blob/master/spiga.py
+* __spike	2.9__	IMMUNITYsec's fuzzer creation kit in C	http://www.immunitysec.com/resources-freesoftware.shtml
+* __spike-proxy	148__	A Proxy for detecting vulnerabilities in web applications	http://www.immunitysec.com/resources-freesoftware.shtml
+* __spiped	1.4.1__	A utility for creating symmetrically encrypted and authenticated pipes between socket addresses.	https://www.tarsnap.com/spiped.html
+* __spipscan	8340.db8ef4a__	SPIP (CMS) scanner for penetration testing purpose written in Python.	https://github.com/PaulSec/SPIPScan
+* __splint	3.1.2__	A tool for statically checking C programs for security vulnerabilities and coding mistakes	http://www.splint.org/
+* __sploitctl	1.1__	Fetch, install and search exploit archives from exploit sites like exploit-db and packetstorm.	https://github.com/BlackArch/sploitctl
+* __sploitego	153.d9568dc__	Maltego Penetration Testing Transforms.	https://github.com/allfro/sploitego
+* __spooftooph	0.5.2__	Designed to automate spoofing or cloning Bluetooth device Name, Class, and Address. Cloning this information effectively allows Bluetooth device to hide in plain sight	http://www.hackfromacave.com/projects/spooftooph.html
+* __sps	4.2__	A Linux packet crafting tool. Supports IPv4, IPv6 including extension headers, and tunneling IPv6 over IPv4.	https://sites.google.com/site/simplepacketsender/
+* __sqid	0.3__	A SQL injection digger.	http://sqid.rubyforge.org/
+* __sqlbrute	1.0__	Brute forces data out of databases using blind SQL injection.	http://www.justinclarke.com/archives/2006/03/sqlbrute.html
+* __sqlmap	6445.20c272b__	An automatic SQL injection tool developed in Python.	http://sqlmap.sourceforge.net
+* __sqlninja	0.2.6_r1__	A tool targeted to exploit SQL Injection vulnerabilities on a web application that uses Microsoft SQL Server as its back-end	http://sqlninja.sourceforge.net/
+* __sqlpat	1.0.1__	This tool should be used to audit the strength of Microsoft SQL Server passwords offline.	http://www.cqure.net/wp/sqlpat/
+* __sqlping	4__	SQL Server scanning tool that also checks for weak passwords using wordlists.	http://www.sqlsecurity.com/downloads
+* __sqlsus	0.7.2__	An open source MySQL injection and takeover tool, written in perl	http://sqlsus.sourceforge.net/
+* __ssh-privkey-crack	0.3__	A SSH private key cracker	https://code.google.com/p/lusas/
+* __sshatter	1.2__	Password bruteforcer for SSH	http://www.nth-dimension.org.uk/downloads.php?id=34
+* __sshscan	7401.3bfd4ae__	A horizontal SSH scanner that scans large swaths of IPv4 space for a single SSH user and pass.	https://github.com/getdual/scripts-n-tools/blob/master/sshscan.py
+* __sshtrix	0.0.2__	A very fast multithreaded SSH login cracker	http://nullsecurity.net/tools/cracker.html
+* __sshuttle	198.9ce2fa0__	Transparent proxy server that works as a poor man's VPN. Forwards all TCP packets over ssh (and even DNS requests when using --dns option). Doesn't require admin privileges on the server side.	https://github.com/apenwarr/sshuttle
+* __ssl-hostname-resolver	1__	CN (Common Name) grabber on X.509 Certificates over HTTPS.	http://packetstormsecurity.com/files/120634/Common-Name-Grabber-Script.html
+* __ssl-phuck3r	2.0__	All in one script for Man-In-The-Middle attacks.	https://github.com/zombiesam/ssl_phuck3r
+* __sslcat	1.0__	SSLCat is a simple Unix utility that reads and writes data across an SSL enable network connection.	http://www.bindshell.net/tools/sslcat
+* __sslcaudit	522.5b6be3e__	Utility to perform security audits of SSL/TLS clients.	https://github.com/grwl/sslcaudit
+* __ssldump	0.9b3__	an SSLv3/TLS network protocol analyzer	http://www.rtfm.com/ssldump/
+* __sslh	1.16__	SSL/SSH/OpenVPN/XMPP/tinc port multiplexer	http://www.rutschle.net/tech/sslh.shtml
+* __sslmap	0.2.0__	A lightweight TLS/SSL cipher suite scanner.	http://thesprawl.org/projects/latest/
+* __sslnuke	5.c5faeaa__	Transparent proxy that decrypts SSL traffic and prints out IRC messages.	https://github.com/jtripper/sslnuke
+* __sslscan	239.1328b49__	Tests SSL/TLS enabled services to discover supported cipher suites.	https://github.com/DinoTools/sslscan
 * __sslsniff	0.8__	A tool to MITM all SSL connections on a LAN and dynamically generate certs for the domains that are being accessed on the fly	http://www.thoughtcrime.org/software/sslsniff/
 * __sslsplit	0.4.9__	A tool for man-in-the-middle attacks against SSL/TLS encrypted network connections.	http://www.roe.ch/SSLsplit
 * __sslstrip	0.9__	Transparently hijack http traffic on a network, watch for https links and redirects, then map those links.	http://www.thoughtcrime.org/software/sslstrip
@@ -1032,7 +1033,7 @@ sslscan	239.1328b49	Tests SSL/TLS enabled services to discover supported cipher 
 * __websockify__	0.6.0	WebSocket to TCP proxy/bridge.	http://github.com/kanaka/websockify
 * __webspa	0.7__	A web knocking tool, sending a single HTTP/S to run O/S commands.	http://sourceforge.net/projects/webspa/
 * __websploit	3.0.0__	An Open Source Project For, Social Engineering Works, Scan, Crawler & Analysis Web, Automatic Exploiter, Support Network Attacks	http://code.google.com/p/websploit/
-* __weevely	1.1__	Stealth tiny web shell	http://epinna.github.io/Weevely/
+* __weevely	3__	Stealth tiny web shell	https://github.com/epinna/weevely3
 * __wepbuster	1.0_beta_0.7__	script for automating aircrack-ng	http://code.google.com/p/wepbuster/
 * __wfuzz	24.1c6ecd8__	Utility to bruteforce web applications to find their not linked resources.	https://github.com/xmendez/wfuzz
 * __whatweb	0.4.7__	Next generation web scanner that identifies what websites are running.	http://www.morningstarsecurity.com/research/whatweb
